@@ -1,0 +1,12 @@
+ # MyPy cache
+.mypy_cache/
+
+# VS Code editor configuration
+.vscode/
+
+# Python cache
+__pycache__/
+
+# Personal files and PDFs
+代码随想录PDF/
+mypy.ini
